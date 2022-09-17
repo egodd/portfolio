@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1186.993" height="255" viewBox="0 0 1186.993 255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1d5c9;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 200px;
+        font-family: CenturyGothic-Bold, Century Gothic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="financelabel" transform="translate(-366.503 -1493)">
+    <path id="Banner" class="cls-1" d="M0,0H1186.993V243H0Z" transform="translate(366.503 1499)"/>
+    <text id="Finance" class="cls-2" transform="translate(522 1493)"><tspan x="10.119" y="198">FINANCE</tspan></text>
+  </g>
+</svg>

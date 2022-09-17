@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="763" height="196" viewBox="0 0 763 196" preserveAspectRatio="none">
+  <defs>
+    <filter id="Rectangle_8" x="0" y="0" width="763" height="196" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="PTitle" transform="translate(-639 -1213.006)">
+    <g transform="matrix(1, 0, 0, 1, 639, 1213.01)" filter="url(#Rectangle_8)">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="745" height="178" rx="50" transform="translate(4 2)" fill="#7484d5"/>
+    </g>
+    <text id="Portfolios" transform="translate(1248 1334.006)" fill="#fafafa" font-size="80" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="-463.945" y="0">PORTFOLIOS</tspan></text>
+  </g>
+</svg>
